@@ -1,12 +1,13 @@
-# TSF-Task1-BasicBankingSystem
-#THE SPARKS FOUNDATION
-#Graduate Rotational Internship Program
-#Domain: Web Development and Designing
-#Task1: Basic Banking System
+# Basic-Banking-System
 
-#Technologies used:
+The Sparks Foundation - Internship - Task1
 
-#Front-end: HTML, CSS, Javascript
-#Back-end: PHP
-#Database: MySQL
-#Server : Apache(XAMPP)
+Technologies used:
+
+Front-end: HTML, CSS, Javascript
+Back-end: PHP
+Database: MySQL
+Server : Apache(XAMPP)
+
+
+
